@@ -2,12 +2,12 @@
 
 ### Installation Guide
 ```bash
-npm install gsap
+npm install gsap lenis
 # or
-yarn add gsap
+yarn add gsap lenis
 # or
-pnpm add gsap
+pnpm add gsap lenis
 # or
-bun add gsap
+bun add gsap lenis
 ```
 The Lib should have some flexible animation to simplify web dev
